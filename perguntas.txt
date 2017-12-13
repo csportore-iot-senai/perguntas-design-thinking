@@ -1,0 +1,33 @@
+Qual é o seu nome?
+
+Qual é a sua idade?
+
+Onde você mora?
+
+Você possui alguma religião? Se não, ao menos acredita em algo metafísico?
+
+Você gosta de estudar onde está? Porque?
+
+Existe alguma matéria que você se gosta mais de estudar?
+
+Sabe dizer o motivo de gostar dessa matéria?
+
+Existe alguma matéria que você se gosta menos de estudar?
+
+Sabe dizer o motivo de não gostar (tanto) dessa matéria?
+
+Você já trabalhou? Se sim, por quanto tempo?
+
+O que é trabalhar para você?
+
+Como você imagina o mercado de trabalho?
+
+Você já sabe qual carreira quer seguir?
+
+Seu círculo familiar apoia a ideia?
+
+Você já ouviu algum(a) parente ou amigo(a) reprovar alguma profissão? Se sim, qual?
+
+Sua religião pode lhe atrapalhar na escolha de sua carreira?
+
+
