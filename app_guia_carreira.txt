@@ -1,0 +1,20 @@
+Aplicativo Guia de Carreira
+
+- Formato de Quiz Games
+- As perguntas são feitas por profissionais de cada área
+- As perguntas possuem níveis de dificuldade
+- Conforme as pessoas vão pontuando, elas podem conferir o resultado
+numa aba de carreira recomendada
+- A Aba de Recomendação somará os pontos totais e procurará a área mais adequada
+- Será possível responder à bastante perguntas em várias áreas. Exemplo: alta pontuação
+em Biologia e Ciências da Computação sugerimos Bioinformática.
+- Push notifications (talvez SMSs também) serão enviadas para os celulares avisando de eventos de 
+carreira
+- As empresas podem achar esses participantes e convidá-los a participarem de um "dia da carreira" (?)
+- Talvez dividir em áreas mais específicas das carreiras para que o resultado seja ainda mais assertivo,
+pois, se o aluno encontra as opções Penal e Tributário dentro do ramo do Direito, ele terá uma noção melhor
+ainda do que quer.
+
+Fora do aplicativo:
+- Fazer reuniões com a familia do jovem
+- 
